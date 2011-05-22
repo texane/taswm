@@ -1,0 +1,21 @@
+what
+-> tag and switch window manager
+
+author
+-> texane@gmail.com
+
+original idea
+-> rno, texane
+
+why another window manager
+-> I mostly use graphical applications that dont need to share the screen surface
+-> I dont use the mouse, only keyboard
+-> I dont have much opened application, so I can remember their name, or tags
+-> I want a fast way to switch inbetween applications
+-> I dont want the window manager to spend computing resources to impelment software
+abstractions I dont use: keyboard shortcuts, tiling algorithms, client application stacks...
+
+minimal set of features:
+-> create a client
+-> tag a client with an expression
+-> switch on a client matching a given tag
